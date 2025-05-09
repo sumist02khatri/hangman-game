@@ -1,0 +1,26 @@
+# Python (backend)
+/backend/__pycache__/
+/backend/*.pyc
+/backend/*.pyo
+/backend/*.pyd
+/backend/venv/
+/backend/*.env
+
+# Node.js (frontend)
+/frontend/node_modules/
+/frontend/build/
+/frontend/.cache/
+/frontend/dist/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Environment variables
+*.env
